@@ -1,0 +1,8 @@
+auth.json
+var/*
+vendor/
+generated/*
+var/log/*
+var/session/*
+var/tmp/*
+*.log

@@ -1,0 +1,1 @@
+/home/filip/Desktop/catalog/vendor/magento/module-swatches/view/base/web/js/swatch-renderer.js

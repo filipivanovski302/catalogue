@@ -1,0 +1,1 @@
+/home/filip/Desktop/catalog/vendor/magento/module-page-builder/view/base/web/js/widget-initializer.js

@@ -1,0 +1,1 @@
+/home/filip/Desktop/catalog/vendor/magento/module-ui/view/frontend/web/js/model/messages.js
