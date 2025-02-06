@@ -1,1 +1,0 @@
-/home/filip/Desktop/catalog/lib/web/requirejs/domReady.js

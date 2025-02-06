@@ -1,1 +1,0 @@
-/home/filip/Desktop/catalog/lib/web/mage/smart-keyboard-handler.js
